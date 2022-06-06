@@ -20,7 +20,7 @@ RegisterNumber : 212219040168
 
 ## OUTPUT:
 ```
-/*
+
 1. CODE :
 import numpy as np
 import random
@@ -81,6 +81,7 @@ else:
     
 print("Our model says it is a :", pred)
 
+```
 */![OUTPUT](https://user-images.githubusercontent.com/65896248/172109272-9ccb89d1-85a3-412b-bf59-bd53521a1d16.png)
 
 2. DEMO VIDEO YOUTUBE LINK:
@@ -88,5 +89,4 @@ print("Our model says it is a :", pred)
 
 
 
-```
 
