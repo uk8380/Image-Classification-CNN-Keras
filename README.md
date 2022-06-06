@@ -1,6 +1,6 @@
 # SA-b-PET-ANIMAL-CLASSIFIER
 
-# Algorithm
+# ALGORITHM:
 1.Import libraries  required.
 2.Load dataset through local or drive link.
 3.Train the datasets.
@@ -9,7 +9,7 @@
 6.Fit the model and check accuracy.
 7.Evaluate performance on test dataset.
 
-## Program:
+## PROGRAM:
 ```
 /*
 Program to implement 
@@ -85,7 +85,7 @@ print("Our model says it is a :", pred)
 ![OUTPUT](https://user-images.githubusercontent.com/65896248/172109272-9ccb89d1-85a3-412b-bf59-bd53521a1d16.png)
 
 ## YOUTUBE LINK:
-2. DEMO VIDEO YOUTUBE LINK:
+**CLICK ON BELOW IMAGE**
 [![IMAGE_ALT](https://user-images.githubusercontent.com/65896248/172110385-d69e078e-a364-4af6-b42c-4d439a0371e0.png)](https://www.youtube.com/watch?v=6L1iTMpjlL4)
 
 
