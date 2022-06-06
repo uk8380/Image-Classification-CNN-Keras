@@ -81,7 +81,7 @@ else:
     
 print("Our model says it is a :", pred)
 
-![SKILL ASSESSMENT OUTPUT](https://drive.google.com/file/d/1asonjl8lEbZiQkfaoQsOtTovOu7w3rPP/view?usp=sharing)
+![OUTPUT](https://drive.google.com/file/d/1asonjl8lEbZiQkfaoQsOtTovOu7w3rPP/view?usp=sharing)
 
 2. DEMO VIDEO YOUTUBE LINK:
 ![YOUTUBE LINK](https://www.youtube.com/watch?v=6L1iTMpjlL4)
