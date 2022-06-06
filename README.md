@@ -85,7 +85,7 @@ print("Our model says it is a :", pred)
 */![OUTPUT](https://user-images.githubusercontent.com/65896248/172109272-9ccb89d1-85a3-412b-bf59-bd53521a1d16.png)
 
 2. DEMO VIDEO YOUTUBE LINK:
-*/![YOUTUBE LINK](https://www.youtube.com/watch?v=6L1iTMpjlL4)
+[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=UmX4kyB2wfg)
 
 
 
